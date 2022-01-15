@@ -1,0 +1,49 @@
+[{
+  "id": 1,
+	"name": "RAM",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": 2200,
+	"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freeiconspng.com%2Fuploads%2Fblocks-ram-icon--0.png&f=1&nofb=1"
+},{
+  "id": 2,
+	"name": "HDD",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": 1500,
+	"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fhard_disc%2FHard%2520disc%2520PNG%2C%2520hard%2520drive%2520PNG%2520images%2520free%2520download%2C%2520HDD%2520PNG_PNG12073.png&f=1&nofb=1"
+},{
+  "id": 3,
+	"name": "CPU",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": 12000,
+	"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fcpu%2Fcpu_PNG47.png&f=1&nofb=1"
+},{
+  "id": 4,
+	"name": "Monitor",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": 18500,
+	"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffiles.softicons.com%2Fdownload%2Fsystem-icons%2Fhydropro-icons-by-mediadesign%2Fpng%2F512%2FHP-iMac.png&f=1&nofb=1"
+},{
+  "id": 5,
+	"name": "Power Supply",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": 4300,
+	"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconshock.com%2Fimage%2FRealVista%2FElectrical_appliances%2Fpower_supply_unit&f=1&nofb=1"
+},{
+  "id": 6,
+	"name": "Laptop",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": 99999,
+	"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freeiconspng.com%2Fuploads%2Flaptop-png-31.png&f=1&nofb=1"
+},{
+  "id": 7,
+	"name": "Mouse",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": 800,
+	"image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.freepngimg.com%2Fdownload%2Fcomputer%2520mouse%2F5-black-pc-mouse-png-image.png&f=1&nofb=1"
+},{
+  "id": 8,
+	"name": "Keyboard",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": 1500,
+	"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffindicons.com%2Ffiles%2Ficons%2F262%2Fhydropro_hardware%2F512%2Fhp_keyboard_2.png&f=1&nofb=1"
+}]

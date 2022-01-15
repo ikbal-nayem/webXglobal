@@ -1,0 +1,24 @@
+.product-card img {
+  transition: all .5s ease-in-out;
+}
+
+.product-card:hover {
+  cursor: pointer;
+}
+
+.product-card:hover img {
+  transform: scale(1.15);
+}
+
+.qty-input {
+  max-width: 50px;
+  height: 22px;
+  outline: none;
+  text-align: center;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.submit:hover {
+  cursor: pointer;
+}
